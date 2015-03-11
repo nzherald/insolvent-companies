@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'capybara'
-gem 'selenium-webdriver'
+gem 'capybara-mechanize'
+gem 'pry'
