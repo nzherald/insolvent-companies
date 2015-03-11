@@ -1,11 +1,9 @@
 Insolvent Companies
 ===
 
-This is a proof of concept of scraping the Companies website for
-insolvent companies. The API would be preferable, as is more machine
-readable.
-
-This requires Firefox installed.
+This scraper queries the Companies Office advanced search URL to find
+all companies with the status of 'External Administration' by year of
+incorporation (mainly as a means to bypass the 200 results limit).
 
 To run:
 
